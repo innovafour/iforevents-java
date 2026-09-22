@@ -1,3 +1,5 @@
+> **Moved.** This SDK now lives in [innovafour/iforevents-sdks](https://github.com/innovafour/iforevents-sdks/tree/main/java). This repository is archived.
+
 # IForevents SDK for Java
 
 The IForevents analytics SDK for the JVM: servers, workers, desktop apps, and
